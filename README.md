@@ -1,2 +1,2 @@
-# class
+# Class
  C++ da Oddiy classlar
