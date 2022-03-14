@@ -1,2 +1,2 @@
 # class
-Oddiy classlar
+ C++ da Oddiy classlar
